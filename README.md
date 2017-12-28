@@ -5,4 +5,4 @@ NPM v3.10.10
 
 NodeJS v6.12.2
 
-And Ember CLI
+And Ember CLI v2.11.1
