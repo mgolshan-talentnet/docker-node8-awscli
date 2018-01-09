@@ -1,10 +1,4 @@
-FROM node:6
-
-# Upgrade yarn
-RUN npm install --global yarn@1.3.2
-
-# Install Ember CLI
-RUN npm install -g ember-cli@2.11.1
+FROM node:8
 
 # Install AWS CLI tools
 RUN apt-get update \
