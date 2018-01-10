@@ -1,4 +1,4 @@
-FROM node:7
+FROM node:8
 
 # Install AWS CLI tools
 RUN apt-get update \
