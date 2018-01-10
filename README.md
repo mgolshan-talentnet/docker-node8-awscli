@@ -1,8 +1,6 @@
-# docker-node6-awscli
-aws-cli/1.14.16 Python/2.7.9 Linux/4.4.0-103-generic botocore/1.8.20
+# docker-node8-awscli
+aws-cli/1.14.20 Python/2.7.9 Linux/4.4.0-108-generic botocore/1.8.24
 
-NPM v3.10.10
+NPM v5.6.0
 
-NodeJS v6.12.2
-
-And Ember CLI v2.11.1
+NodeJS v8.9.4
