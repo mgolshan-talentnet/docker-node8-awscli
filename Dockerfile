@@ -10,7 +10,7 @@ RUN apt-get update \
       && apt-get remove -y python-dev python-pip
 
 # Install jq
-RUN apt-get install jq
+RUN echo Y | apt-get install jq
 
 # Install global modules
 RUN npm install -g --save react-html-email
